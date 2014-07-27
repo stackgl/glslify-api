@@ -2,9 +2,12 @@
   "name": "glslify-api",
   "version": "1.0.1",
   "description": "An API and accompanying client for generating glslify shaders in the browser",
+  "browser": "client.js",
   "main": "server.js",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "node example/server"
+  },
   "author": {
     "name": "Hugh Kennedy",
     "email": "hughskennedy@gmail.com",

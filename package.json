@@ -2,7 +2,7 @@
   "name": "glslify-api",
   "version": "1.0.0",
   "description": "An API and accompanying client for generating glslify shaders in the browser",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "scripts": {},
   "author": {

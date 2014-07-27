@@ -15,10 +15,12 @@
     "course": "0.0.1",
     "glsl-deparser": "^1.0.0",
     "glsl-resolve": "0.0.1",
+    "glslify-resolve-remote": "^1.0.0",
     "glslify-stream": "^1.1.1",
     "level-js": "^2.1.6",
     "levelup": "^0.18.6",
     "new-from": "0.0.3",
+    "npm-file": "^1.0.0",
     "stream-combiner": "^0.2.1",
     "through": "^2.3.4",
     "xhr": "^1.13.0"

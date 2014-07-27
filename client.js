@@ -12,6 +12,8 @@ var url     = require('url')
 module.exports = createClient
 
 function createClient(host, opts) {
+  host = host || 'http://glslify.shader.club/'
+
   var db = levelup('glslify-api', {
       valueEncoding: 'json'
     , db: leveljs

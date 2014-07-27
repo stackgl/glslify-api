@@ -32,7 +32,9 @@ is an error or a appropriate route is not found.
 ### `getShader = api(serverURI, [options])`
 
 Returns a function for compiling shaders within the browser. `serverURI`
-should be the URI where you're hosting your copy of the `glslify-api` server.
+should be the URI where you're hosting your copy of the `glslify-api` server –
+if you don't pass one in that's OK too, there's one being hosted at
+[glslify.shader.club](http://glslify.shader.club/).
 
 Available options:
 

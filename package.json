@@ -1,6 +1,6 @@
 {
   "name": "glslify-api",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An API and accompanying client for generating glslify shaders in the browser",
   "browser": "client.js",
   "main": "server.js",
